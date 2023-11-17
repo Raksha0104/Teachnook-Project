@@ -21,3 +21,5 @@ Follow the steps below to get started with This Digital Marketing Template:
 3. Customize and enhance the template according to your specific needs.
 4. Run the project locally using `npm start` and test it in your preferred browser.
 5. Deploy the project to your desired hosting platform for production use.
+
+![TEACHNOOK Internship Completion Certificate _ Raksha_page-0001](https://github.com/Raksha0104/Teachnook-project/assets/120122302/c89a5d5f-30aa-4029-b399-ac4b82ad4dcb)
